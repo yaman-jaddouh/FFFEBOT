@@ -4,7 +4,7 @@ import telebot
 from telebot.types import KeyboardButton , ReplyKeyboardMarkup
 from subFile import  check_old,check_or_add,historyW
 from subFile import his0
-bot=telebot.TeleBot('1117323096:AAFjgXAykVD7T4qMPFsWo35mBQZV2YfIgzo')
+bot=telebot.TeleBot("1094115130:AAFfhFrN-xzcgYmPeKUAhQi3a6G5NHCWFy0")
 
 @bot.message_handler(commands=['start'])
 def start(message):

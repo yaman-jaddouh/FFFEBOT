@@ -1,6 +1,7 @@
 #!/usr/ env python
 # -*- coding: utf-8 -*-
 import json
+his0=["المحاضرات 📝","حول البوت⁉️","دورات 🖌🗒","مراجع وكتب عامة  📚"]
 def historyW(id,array):
     a={}
     fileR=open('history.json','r')

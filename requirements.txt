@@ -40,10 +40,6 @@ pyinstaller==4.0
 pyinstaller-hooks-contrib==2020.7
 PyMsgBox==1.0.9
 pyperclip==1.8.1
-PyQt5==5.15.0
-PyQt5-sip==12.8.0
-pyqt5-tools==5.15.0.1.7.1
-PyQt5Designer==5.14.1
 PyRect==0.1.4
 PyScreeze==0.1.26
 pyserial==3.4

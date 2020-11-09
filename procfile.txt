@@ -1,1 +1,1 @@
-web: python3 mainFile.py
+worker: python mainFile.py
